@@ -4,4 +4,5 @@
 
 ## Git
 **Delete local branch:** `git branch -d mybranch'`
+
 **Force delete local branch:** `git branch -D mybranch'`
