@@ -12,8 +12,13 @@
 **4. VB.net** </br>
 
 ## Git
-**Delete local branch:** `git branch -d mybranch`  </br>
-**Force delete local branch:** `git branch -D mybranch` </br>
+**Delete local branch:** `$ git branch -d mybranch`  </br>
+**Force delete local branch:** `$ git branch -D mybranch` </br>
+
+## Ubuntu
+**Uninstall the package:** `$ sudo apt-get remove PACKAGE`  </br>
+**Remove configuration files related to package:** `$ sudo apt-get purge PACKAGE` </br>
+**uninstall all the dependency packages that are no longer required.:** `$ sudo apt-get autoremove` </br>
 
 ## NPM
 **Install Express.js:** `$ sudo npm install express --save`  </br>
