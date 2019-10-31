@@ -5,11 +5,11 @@
 >Last Changes: 10/31/2019 </br>
 
 ## GUIDE
-**0. MakeDown**
-**1. Git**
-**2. Ubuntu**
-**3. Php**
-**4. VB.net**
+**0. MakeDown** </br>
+**1. Git** </br>
+**2. Ubuntu** </br>
+**3. Php** </br>
+**4. VB.net** </br>
 
 ## Git
 **Delete local branch:** `git branch -d mybranch'`  </br>
