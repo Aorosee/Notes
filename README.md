@@ -12,5 +12,9 @@
 **4. VB.net** </br>
 
 ## Git
-**Delete local branch:** `git branch -d mybranch'`  </br>
-**Force delete local branch:** `git branch -D mybranch'` </br>
+**Delete local branch:** `git branch -d mybranch`  </br>
+**Force delete local branch:** `git branch -D mybranch` </br>
+
+## NPM
+**Install Express.js:** `$ sudo npm install express --save`  </br>
+**Install Nodemon:** `$ sudo npm install nodemon --save-dev` </br>
