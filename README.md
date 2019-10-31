@@ -4,6 +4,11 @@
 >Verison 0.0.1 </br>
 >Last Changes: 10/31/2019 </br>
 
+## GUIDE
+1. Git
+2. Ubuntu
+3. Php
+4. VB.net
 
 ## Git
 **Delete local branch:** `git branch -d mybranch'`  </br>
