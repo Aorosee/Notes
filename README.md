@@ -3,3 +3,4 @@
 
 
 ## Git
+*Delete local branch: * `git branch -d mybranch'`
