@@ -1,8 +1,12 @@
 # Alex's CyberMed Task List
 >Last Changes: 4/8/2020 </br>
 
+## CURRENT WORKING ON:</br> 
+* Patient leave should notify provider.  </br>
+</br> 
+
 ## 4/8/2020
-**ISSUES:** </br> 
+**ISSUES & FEATURES:** </br> 
 * Complete window not opened when patient hang up  </br>
 * Patient hangup, provider online status is 1??   </br>
 * Patient leave should notify provider.  </br>
@@ -11,7 +15,11 @@
 * Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then * the calling screen will popup again).  </br>
 * Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  </br>
 </br>
-**FEATURES:** </br> 
-`$ git branch -D mybranch` </br>
+
+**DONE:** </br> 
+Provider web call patients needs to set self online room number (in provider table). </br>
+“This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”. </br>
 </br>
+
+
 
