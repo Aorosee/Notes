@@ -12,10 +12,11 @@
 * Complete window not opened when patient hang up  </br>
 * Patient hangup, provider online status is 1??   </br>
 * Patient leave should notify provider.  </br>
-* Provider normal leave ok. Provider calling cancel button leave does not have end time.  </br>
+* <s>Provider normal leave ok. Provider calling cancel button leave does not have end time.</s> </br>
 * Patient left. Provider still on video. However, provider end_time marked.  </br>
-* Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then * the calling screen will popup again).  </br>
-* Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  </br>
+* <s>Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then * the calling screen will popup again).</s>  </br>
+* Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  </br>“This * <s>Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.</s> </br>
+* <s>Two Register_as_room_guest functions inside the Webservice.</s> </br>
 </br>
 
 **DONE:** </br> 
