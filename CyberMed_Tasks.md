@@ -3,8 +3,6 @@
 
 ## CURRENT WORKING ON:</br> 
 * Patient leave should notify provider.  </br>
-* Patient hangup, provider online status is 1??   </br>
-* Patient left. Provider still on video. However, provider end_time marked.  </br>
 </br>
 
 ## 4/8/2020
