@@ -5,7 +5,6 @@
 * Patient leave should notify provider.  </br>
 * Patient hangup, provider online status is 1??   </br>
 * Patient left. Provider still on video. However, provider end_time marked.  </br>
-* Provider normal leave ok. Provider calling cancel button leave does not have end time.  </br>
 </br>
 
 ## 4/8/2020
@@ -23,6 +22,7 @@
 * Provider web call patients needs to set self online room number (in provider table). **DONE and PUSHED**</br>
 * “This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.  **DONE NO PUSHED** `BRANCH issueFix`</br>
 * Two Register_as_room_guest functions inside the Webservice.  **DONE NO PUSHED** `BRANCH issueFix`</br>
+* Provider normal leave ok. Provider calling cancel button leave does not have end time.  **DONE NO PUSHED** `BRANCH issueFix`</br>
 </br>
 
 **REVIEWING:** </br> 
