@@ -3,6 +3,9 @@
 
 ## CURRENT WORKING ON:</br> 
 * Patient leave should notify provider.  </br>
+* Patient hangup, provider online status is 1??   </br>
+* Patient left. Provider still on video. However, provider end_time marked.  </br>
+* Provider normal leave ok. Provider calling cancel button leave does not have end time.  </br>
 </br>
 
 ## 4/8/2020
