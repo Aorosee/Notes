@@ -3,7 +3,6 @@
 
 ## CURRENT WORKING ON:</br> 
 * Patient leave should notify provider.  </br>
-* Two Register_as_room_guest functions inside the Webservice. </br>
 </br>
 
 ## 4/8/2020
@@ -20,6 +19,7 @@
 **DONE:** </br> 
 * Provider web call patients needs to set self online room number (in provider table). **DONE and PUSHED**</br>
 * “This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.  **DONE NO PUSHED**</br>
+* Two Register_as_room_guest functions inside the Webservice.  **DONE NO PUSHED**</br>
 </br>
 
 
