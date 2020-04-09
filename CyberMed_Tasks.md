@@ -7,9 +7,9 @@
 
 ## 4/8/2020
 **ISSUES & FEATURES:** </br> 
-* Complete window not opened when patient hang up  </br>
-* Patient hangup, provider online status is 1??   </br>
 * Patient leave should notify provider.  </br>
+* Patient hangup, provider online status is 1??   </br>
+* Complete window not opened when patient hang up  </br>
 * Patient left. Provider still on video. However, provider end_time marked.  </br>
 * Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  </br>
 * <s>Provider normal leave ok. Provider calling cancel button leave does not have end time.</s> </br>
