@@ -3,8 +3,7 @@
 
 ## CURRENT WORKING ON:</br> 
 * Patient leave should notify provider.  </br>
-</br> 
-*  Two Register_as_room_guest functions inside the Webservice.  </br>
+* Two Register_as_room_guest functions inside the Webservice. </br>
 </br>
 
 ## 4/8/2020
