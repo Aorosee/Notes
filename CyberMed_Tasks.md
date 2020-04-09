@@ -23,6 +23,7 @@
 * `BRANCH issueFix` “This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.  **DONE NO PUSHED** </br>
 * `BRANCH issueFix` Two Register_as_room_guest functions inside the Webservice.  **DONE NO PUSHED** </br>
 * `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **DONE NO PUSHED** </br>
+* Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then * the calling screen will popup again).  **CHECKED NO NEED CHANGE** </br>
 </br>
 
 **REVIEWING:** </br> 
