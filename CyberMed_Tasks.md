@@ -22,14 +22,14 @@
 * Provider web call patients needs to set self online room number (in provider table). **PUSHED**</br>
 * `BRANCH issueFix` “This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.  **PUSHED** </br>
 * `BRANCH issueFix` Two Register_as_room_guest functions inside the Webservice.  **PUSHED** </br>
-* `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **PUSHED** </br>
-* `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **NO NEED CHANGE** </br>
 * `BRANCH issueFix` Patient hangup, provider online status is 1??  **PUSHED** </br>
 * `BRANCH issueFix` Patient left. Provider still on video. However, provider end_time marked.  **PUSHED** </br>
 * `BRANCH issueFix` Complete window not opened when patient hang up.  **PUSHED**  </br>
 </br>
 
 **REVIEWING:** </br> 
+* `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **PUSHED** </br>
+* `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **NO NEED CHANGE** </br>
 </br>
 
 
