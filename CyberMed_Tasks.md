@@ -19,8 +19,8 @@
 </br>
 
 **DONE:** </br> 
-* Provider web call patients needs to set self online room number (in provider table). **DONE and PUSHED**</br>
-* `BRANCH issueFix` “This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.  **DONE NO PUSHED** </br>
+* Provider web call patients needs to set self online room number (in provider table). **PUSHED**</br>
+* `BRANCH issueFix` “This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.  **PUSHED** </br>
 * `BRANCH issueFix` Two Register_as_room_guest functions inside the Webservice.  **PUSHED** </br>
 * `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **PUSHED** </br>
 * `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **NO NEED CHANGE** </br>
