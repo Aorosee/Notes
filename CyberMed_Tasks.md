@@ -1,9 +1,13 @@
 # CYBERMED TASK LIST
->Last Changes: 4/9/2020 </br>
+>Last Changes: 4/10/2020 </br>
 
 ## CURRENT WORKING ON:</br> 
 * Patient leave should notify provider.  </br>
 </br>
+
+## 4/9/2020 
+**ISSUES & FEATURES:** </br> 
+* Patient call provider will mark Room table's caller and receiver as a same type (pat to pat)
 
 ## 4/8/2020
 **ISSUES & FEATURES:** </br> 
@@ -25,11 +29,11 @@
 * `BRANCH issueFix` Patient hangup, provider online status is 1??  **PUSHED** </br>
 * `BRANCH issueFix` Patient left. Provider still on video. However, provider end_time marked.  **PUSHED** </br>
 * `BRANCH issueFix` Complete window not opened when patient hang up.  **PUSHED**  </br>
+* `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **COMMITED** </br>
+* `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **COMMITED** </br>
 </br>
 
 **REVIEWING:** </br> 
-* `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **PUSHED** </br>
-* `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **NEED RE-PRODUCE** </br>
 </br>
 
 
