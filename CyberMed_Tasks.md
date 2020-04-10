@@ -5,12 +5,11 @@
 * Patient leave should notify provider.  </br>
 </br>
 
-## 4/9/2020 
-**ISSUES & FEATURES:** </br> 
+## ISSUES & FEATURES
+**4/9/2020:** </br> 
 * Patient call provider will mark Room table's caller and receiver as a same type (pat to pat)
 
-## 4/8/2020
-**ISSUES & FEATURES:** </br> 
+**4/8/2020:** </br> 
 * Patient leave should notify provider.  </br>
 * Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  </br>
 * <s>Provider normal leave ok. Provider calling cancel button leave does not have end time.</s> </br>
