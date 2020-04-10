@@ -16,7 +16,7 @@
 * <s>Incoming Box show again after a normal flow start from provider callback to patient.</s> </br>
 
 **4/8/2020:** </br> 
-* Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  </br>
+* <s>Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.</s>  </br>
 * <s>Patient leave should notify provider.</s>  </br>
 * <s>Provider normal leave ok. Provider calling cancel button leave does not have end time.</s> </br>
 * <s>Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).</s>  </br>
@@ -38,4 +38,5 @@
 * `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **COMMITED** </br>
 * `BRANCH issueFix` Incoming Box show again after a normal flow start from provider callback to patient.  **COMMITED** </br>
 * `BRANCH issueFix` Patient leave should notify provider.  **COMMITED** </br>
+* `BRANCH issueFix` Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  **COMMITED** </br>
 </br>
