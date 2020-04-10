@@ -3,7 +3,6 @@
 
 ## CURRENT WORKING ON </br>
 * Patient leave should notify provider.  </br>
-* <s>Missed Call doesn't go to MISSED section</s>   </br>
 </br>
 
 ## REVIEWING </br>
@@ -12,7 +11,8 @@
 ## ISSUES & FEATURES </br>
 **4/9/2020:** </br> 
 * Patient call provider will mark Room table's caller and receiver as a same type (pat to pat) </br>
-* Missed Call doesn't go to MISSED section. </br>
+* <s>Missed Call doesn't go to MISSED section.</s> </br>
+* <s>Incoming Box show again after a normal flow start from provider callback to patient.</s> </br>
 
 **4/8/2020:** </br> 
 * Patient leave should notify provider.  </br>
