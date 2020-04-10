@@ -38,4 +38,5 @@
 * `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **COMMITED** </br>
 * `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **COMMITED** </br>
 * `BRANCH issueFix` Incoming Box show again after a normal flow start from provider callback to patient.  **COMMITED** </br>
+* `BRANCH issueFix` Patient leave should notify provider.  **COMMITED** </br>
 </br>
