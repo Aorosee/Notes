@@ -5,6 +5,9 @@
 * Patient leave should notify provider.  </br>
 </br>
 
+## REVIEWING:</br> 
+</br>
+
 ## ISSUES & FEATURES
 **4/9/2020:** </br> 
 * Patient call provider will mark Room table's caller and receiver as a same type (pat to pat)
@@ -31,8 +34,3 @@
 * `BRANCH issueFix` Provider normal leave ok. Provider calling cancel button leave does not have end time.  **COMMITED** </br>
 * `BRANCH issueFix` Patient -> Provider. Patient end call. Provider end call. Calling screen call again. --> Provider online_room must be NULL. (If “” then the calling screen will popup again).  **COMMITED** </br>
 </br>
-
-**REVIEWING:** </br> 
-</br>
-
-
