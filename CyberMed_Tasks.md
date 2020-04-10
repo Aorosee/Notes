@@ -1,14 +1,14 @@
 # CYBERMED TASK LIST
 >Last Changes: 4/10/2020 </br>
 
-## CURRENT WORKING ON:</br> 
+## CURRENT WORKING ON </br>
 * Patient leave should notify provider.  </br>
 </br>
 
-## REVIEWING:</br> 
+## REVIEWING </br>
 </br>
 
-## ISSUES & FEATURES
+## ISSUES & FEATURES </br>
 **4/9/2020:** </br> 
 * Patient call provider will mark Room table's caller and receiver as a same type (pat to pat)
 
@@ -24,7 +24,7 @@
 * <s>Complete window not opened when patient hang up.</s>  </br>
 </br>
 
-**DONE:** </br> 
+## DONE </br>
 * `BRANCH issueFix` Provider web call patients needs to set self online room number (in provider table). **PUSHED**</br>
 * `BRANCH issueFix` “This Party currently is busy or offline” -> “The other party is currently busy or offline, please try again later”.  **PUSHED** </br>
 * `BRANCH issueFix` Two Register_as_room_guest functions inside the Webservice.  **PUSHED** </br>
