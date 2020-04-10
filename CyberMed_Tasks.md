@@ -11,8 +11,8 @@
 
 ## ISSUES & FEATURES </br>
 **4/9/2020:** </br> 
-* Patient call provider will mark Room table's caller and receiver as a same type (pat to pat) </br>
 * Console log may expose room informations, such as appId and room_number. </br>
+* <s>Patient call provider will mark Room table's caller and receiver as a same type (pat to pat).</s> </br>
 * <s>Missed Call doesn't go to MISSED section.</s> </br>
 * <s>Incoming Box show again after a normal flow start from provider callback to patient.</s> </br>
 
