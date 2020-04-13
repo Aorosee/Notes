@@ -2,6 +2,8 @@
 >Last Changes: 4/13/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
+* Complete a video session work-flow. </br>
+* Complete the test percedue of CDOC_ONLINE. </br>
 * Console log may expose room informations, such as appId and room_number. </br>
 </br>
 
