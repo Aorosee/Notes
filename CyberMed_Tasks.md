@@ -15,10 +15,13 @@
 * Complete a video session work-flow. </br>
 * Complete the test percedue of CDOC_ONLINE. </br>
 * Reviewing codes and making them more simple. </br>
+* When provider missed call, it should not block another call come in. </br>
+</br>
 
 **4/10/2020:** </br>
 * Provider could read Room db table first before patient clean them. </br>
 * Provider Radwin should show "patient has leave" when patient hangup before/right after provider pick up. </br>
+</br>
 
 **4/9/2020:** </br> 
 * Console log may expose room informations, such as appId and room_number. </br>
