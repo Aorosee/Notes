@@ -12,8 +12,10 @@
 
 ## ISSUES & FEATURES </br>
 **4/14/2020:** </br>
-* Help MJ to refine the video layout in order to suit mobile version.
-* If patient is busy or offline, the outgoing ringbox would not timeout.
+* Help MJ to refine the video layout in order to suit mobile version. </br>
+* If patient is busy or offline, the outgoing ringbox would not timeout. </br>
+* Two timers stand together. </br>
+* A weird issue. Provider get a same room_number ringbox 30 mins after video call.
 </br>
 
 **4/13/2020:** </br>
