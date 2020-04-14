@@ -1,5 +1,5 @@
 # CYBERMED TASK LIST
->Last Changes: 4/13/2020 </br>
+>Last Changes: 4/14/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
 * Console log may expose room informations, such as appId and room_number. </br>
@@ -13,6 +13,7 @@
 ## ISSUES & FEATURES </br>
 **4/14/2020:** </br>
 * Help MJ to refine the video layout in order to suit mobile version.
+* If patient is busy or offline, the outgoing ringbox would not timeout.
 </br>
 
 **4/13/2020:** </br>
