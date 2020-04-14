@@ -2,15 +2,19 @@
 >Last Changes: 4/13/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
+* Console log may expose room informations, such as appId and room_number. </br>
 * Complete a video session work-flow. </br>
 * Complete the test percedue of CDOC_ONLINE. </br>
-* Console log may expose room informations, such as appId and room_number. </br>
 </br>
 
 ## REVIEWING </br>
 </br>
 
 ## ISSUES & FEATURES </br>
+**4/14/2020:** </br>
+* Help MJ to refine the video layout in order to suit mobile version.
+</br>
+
 **4/13/2020:** </br>
 * Complete a video session work-flow. </br>
 * Complete the test percedue of CDOC_ONLINE. </br>
