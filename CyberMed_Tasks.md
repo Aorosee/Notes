@@ -12,6 +12,10 @@
 </br>
 
 ## ISSUES & FEATURES </br>
+**4/15/2020:** </br>
+* Don't show callback option on appointment which comes from yesterday or earlier. </br>
+</br>
+
 **4/14/2020:** </br>
 * Help MJ to refine the video layout in order to suit mobile version. </br>
 * If patient is busy or offline, the outgoing ringbox would not timeout. </br>
