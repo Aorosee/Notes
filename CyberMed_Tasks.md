@@ -1,11 +1,13 @@
 # CYBERMED TASK LIST
->Last Changes: 4/15/2020 </br>
+>Last Changes: 4/16/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
-* Two timers stand together. </br>
+* Provider Radwin should show "patient has leave" when patient hangup before/right after provider pick up. </br>
+* Don't show callback option on appointment which comes from yesterday or earlier. </br>
 * Provider could read Room db table first before patient clean them. </br>
 * Complete the test percedue of CDOC_ONLINE. </br>
 * Complete a video session work-flow. </br>
+* Reviewing codes and making them more simple. </br>
 </br>
 
 ## REVIEWING </br>
@@ -17,10 +19,10 @@
 </br>
 
 **4/14/2020:** </br>
-* Help MJ to refine the video layout in order to suit mobile version. </br>
 * If patient is busy or offline, the outgoing ringbox would not timeout. </br>
-* Two timers stand together. </br>
-* A weird issue. Provider get a same room_number ringbox 30 mins after video call.
+* A weird issue. Provider get a same room_number ringbox 30 mins after video call.</br>
+* Help MJ to refine the video layout in order to suit mobile version. </br>
+* <s>Two timers stand together.</s> </br>
 </br>
 
 **4/13/2020:** </br>
@@ -67,4 +69,5 @@
 * `BRANCH issueFix` Patient leave should notify provider.  **MERGED** </br>
 * `BRANCH issueFix` Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  **MERGED** </br>
 * `BRANCH refineCodes` Console log may expose room informations, such as appId and room_number and uid.  **MERGED** </br>
+* `BRANCH twoTimers` Two timers stand together.  **MERGED** </br>
 </br>
