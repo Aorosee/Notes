@@ -16,6 +16,7 @@
 ## ISSUES & FEATURES </br>
 **4/15/2020:** </br>
 * Don't show callback option on appointment which comes from yesterday or earlier. </br>
+* When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on.
 </br>
 
 **4/14/2020:** </br>
