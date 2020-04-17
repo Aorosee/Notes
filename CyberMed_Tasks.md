@@ -2,31 +2,29 @@
 >Last Changes: 4/17/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
-* Provider Radwin should show "patient has leave" when patient hangup before/right after provider pick up. </br>
 * Provider could read Room db table first before patient clean them. </br>
-* When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on. </br>
-* Complete a video session work-flow. </br>
 </br>
 
 ## REVIEWING </br>
 * Complete the test percedue of CDOC_ONLINE. </br>
 * Reviewing codes and making them more simple. </br>
+* Complete a video session work-flow. </br>
 </br>
 
 ## ISSUES & FEATURES </br>
 **4/16/2020:** </br>
-* When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on. </br>
 * Refreshing the page will not resume provider's call. </br>
+* <s>When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on.</s> </br>
 </br>
 
 **4/15/2020:** </br>
-* Don't show callback option on appointment which comes from yesterday or earlier. </br>
+* <s>Don't show callback option on appointment which comes from yesterday or earlier. OR pop-up warn provider do not use past or future appointment.</s> </br>
 </br>
 
 **4/14/2020:** </br>
-* If patient is busy or offline, the outgoing ringbox would not timeout. </br>
 * A weird issue. Provider get a same room_number ringbox 30 mins after video call.</br>
 * Help MJ to refine the video layout in order to suit mobile version. </br>
+* <s>If patient is busy or offline, the outgoing would not still show and never dismiss.</s> </br>
 * <s>Two timers stand together.</s> </br>
 </br>
 
@@ -76,4 +74,7 @@
 * `BRANCH refineCodes` Console log may expose room informations, such as appId and room_number and uid.  **MERGED** </br>
 * `BRANCH twoTimers` Two timers stand together.  **MERGED** </br>
 * `BRANCH fridayChange` Don't show callback option on appointment which comes from past or future. **COMMITED** </br>
+* `BRANCH fridayChange` Provider Radwin should show "patient has leave" when patient hangup before/right after provider pick up. **COMMITED** </br>
+* `BRANCH fridayChange` When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on. **COMMITED** </br>
+* `BRANCH fridayChange` If patient is busy or offline, the outgoing would not still show and never dismiss. **COMMITED** </br>
 </br>
