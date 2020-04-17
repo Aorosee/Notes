@@ -30,15 +30,15 @@
 
 **4/13/2020:** </br>
 * Complete a video session work-flow. </br>
-* Complete the test percedue of CDOC_ONLINE. </br>
 * Reviewing codes and making them more simple. </br>
-* When provider missed call, it should not block another call come in. </br>
 * Layout problem in CyberMed Corp website. </br>
+* <s>When provider missed call, it should not block another call come in.</s> </br>
+* <s>Complete the test percedue of CDOC_ONLINE.</s> </br>
 </br>
 
 **4/10/2020:** </br>
 * Provider could read Room db table first before patient clean them. </br>
-* Provider Radwin should show "patient has leave" when patient hangup before/right after provider pick up. </br>
+* <s>Provider Radwin should show "patient has leave" when patient hangup before/right after provider pick up.</s> </br>
 </br>
 
 **4/9/2020:** </br> 
@@ -78,3 +78,4 @@
 * `BRANCH fridayChange` When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on. **COMMITED** </br>
 * `BRANCH fridayChange` If patient is busy or offline, the outgoing would not still show and never dismiss. **COMMITED** </br>
 </br>
+* `BRANCH fridayChange` When provider missed call, it should not block another call come in. **COMMITED** </br>
