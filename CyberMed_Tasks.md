@@ -3,7 +3,6 @@
 
 ## CURRENT WORKING ON (Priority first)</br>
 * Provider Radwin should show "patient has leave" when patient hangup before/right after provider pick up. </br>
-* Don't show callback option on appointment which comes from past or future. </br>
 * Provider could read Room db table first before patient clean them. </br>
 * When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on. </br>
 * Complete a video session work-flow. </br>
@@ -76,4 +75,5 @@
 * `BRANCH issueFix` Pat -> provider, pat hang-up right before provider accepts. Provider has video. Provider hangs up. Still online status 2.  **MERGED** </br>
 * `BRANCH refineCodes` Console log may expose room informations, such as appId and room_number and uid.  **MERGED** </br>
 * `BRANCH twoTimers` Two timers stand together.  **MERGED** </br>
+* `BRANCH fridayChange` Don't show callback option on appointment which comes from past or future. **COMMITED** </br>
 </br>
