@@ -1,8 +1,7 @@
 # CYBERMED TASK LIST
->Last Changes: 4/17/2020 </br>
+>Last Changes: 5/1/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
-* Provider could read Room db table first before patient clean them. </br>
 * Reviewing codes and making them more simple. </br>
 * Complete a video session work-flow. </br>
 </br>
@@ -11,6 +10,12 @@
 </br>
 
 ## ISSUES & FEATURES </br>
+**5/1/2020:** </br>
+* Modify the outcome of PatientWaitingRoom.aspx. </br>
+* Modify the video session sidebar outcome. </br>
+* Re-design the QA site database management. </br>
+</br>
+
 **4/16/2020:** </br>
 * Refreshing the page will not resume provider's call. </br>
 * <s>When provider cancel the outgoing ringbox as soon as the ringbox just showing up, then the cancel button only dismiss the ringbox but the calling percedure is still on.</s> </br>
