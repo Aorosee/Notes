@@ -10,6 +10,14 @@
 </br>
 
 ## ISSUES & FEATURES </br>
+**5/4/2020:** </br>
+* Change success/fail words to green/red spots. </br>
+* Implement patient's online status and device status to webservice. </br>
+* Delete 'close camera' button & delete 'Chrome is better' sentence. </br>
+* Check the internet connection speed if I can. Optional </br>
+* Detect if user is using mobile or pc. Optional </br>
+</br>
+
 **5/1/2020:** </br>
 * Modify the outcome of PatientWaitingRoom.aspx. </br>
 * Implement the hardware check and connection checks. </br>
