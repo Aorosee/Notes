@@ -1,5 +1,5 @@
 # CYBERMED TASK LIST
->Last Changes: 5/1/2020 </br>
+>Last Changes: 5/4/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
 * Reviewing codes and making them more simple. </br>
@@ -12,6 +12,7 @@
 ## ISSUES & FEATURES </br>
 **5/1/2020:** </br>
 * Modify the outcome of PatientWaitingRoom.aspx. </br>
+* Implement the hardware check and connection checks. </br>
 * Modify the video session sidebar outcome. </br>
 * Re-design the QA site database management. </br>
 </br>
