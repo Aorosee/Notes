@@ -36,7 +36,7 @@
 
 **4/14/2020:** </br>
 * A weird issue. Provider get a same room_number ringbox 30 mins after video call.</br>
-* Help MJ to refine the video layout in order to suit mobile version. </br>
+* <s>Help MJ to refine the video layout in order to suit mobile version.</s> </br>
 * <s>If patient is busy or offline, the outgoing would not still show and never dismiss.</s> </br>
 * <s>Two timers stand together.</s> </br>
 </br>
