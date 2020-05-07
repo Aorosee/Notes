@@ -1,5 +1,5 @@
 # CYBERMED TASK LIST
->Last Changes: 5/4/2020 </br>
+>Last Changes: 5/7/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
 * Reviewing codes and making them more simple. </br>
@@ -10,6 +10,17 @@
 </br>
 
 ## ISSUES & FEATURES </br>
+**5/7/2020:** </br>
+* Add the CDOC brand beside of CyberMed in patientWaitingRoom.aspx. </br>
+* Hide the pop-up window as soon as ringbox showing up. </br>
+* Cleanup the files which not useful under video folder CDOC_ONLINE. </br>
+* Change the chinese version patientWaitingRoom to chinese sentect. </br>
+* Put "Thank you for using CDOC" on top, "Your call is complete." on bottom. </br>
+* Make those stats data more readable. </br>
+* Change the signal sign to bars. </br>
+* Design a database table for save stats log. </br>
+</br>
+
 **5/4/2020:** </br>
 * Change success/fail words to green/red spots. </br>
 * Implement patient's online status and device status to webservice. </br>
