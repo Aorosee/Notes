@@ -19,6 +19,7 @@
 * Make those stats data more readable. </br>
 * Change the signal sign to bars. </br>
 * Design a database table for save stats log. </br>
+* Malak's request update on CyberMed Corp. </br>
 </br>
 
 **5/4/2020:** </br>
