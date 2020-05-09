@@ -3,5 +3,7 @@
 ## 1. Start all projects with npm init </br>
 ## 2. Setup .npmrc </br>
     Setup `.npmrc` will make others install the exact version that you use. </br>
-    `$ npm config set save=true` </br>
-    `$ npm config set save-exact=true` </br>
+    ```
+    $ npm config set save=true </br>
+    $ npm config set save-exact=true </br>
+    ```
