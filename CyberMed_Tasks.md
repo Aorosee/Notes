@@ -10,6 +10,11 @@
 </br>
 
 ## ISSUES & FEATURES </br>
+**5/18/2020:** </br>
+* Multiple screen show after second call. </br>
+* Muted status and no video status will be kept after first call. </br>
+</br>
+
 **5/7/2020:** </br>
 * Add the CDOC brand beside of CyberMed in patientWaitingRoom.aspx. </br>
 * Hide the pop-up window as soon as ringbox showing up. </br>
