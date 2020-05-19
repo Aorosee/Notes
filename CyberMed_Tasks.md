@@ -4,9 +4,6 @@
 ## CURRENT WORKING ON (Priority first)</br>
 * Reviewing codes and making them more simple. </br>
 * Complete a video session work-flow. </br>
-* Loading sign after answer the call to connected. </br>
-* Switch camera action. </br>
-* Muted and unmuted has different remote volume. </br>
 * 
 </br>
 
@@ -17,6 +14,10 @@
 **5/18/2020:** </br>
 * Multiple screen show after second call. </br>
 * Muted status and no video status will be kept after first call. </br>
+* Loading sign after answer the call to connected. </br>
+* Switch camera action. </br>
+* Muted and unmuted has different remote volume. </br>
+* OnBeforeClose on safari. </br>
 </br>
 
 **5/7/2020:** </br>
