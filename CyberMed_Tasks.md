@@ -18,6 +18,7 @@
 * Switch camera action. </br>
 * Muted and unmuted has different remote volume. </br>
 * OnBeforeClose on safari. </br>
+* Show provider's online status. </br>
 </br>
 
 **5/7/2020:** </br>
