@@ -19,6 +19,7 @@
 * Muted and unmuted has different remote volume. </br>
 * OnBeforeClose on safari. </br>
 * Show provider's online status. </br>
+* click here to download app. </br>
 </br>
 
 **5/7/2020:** </br>
