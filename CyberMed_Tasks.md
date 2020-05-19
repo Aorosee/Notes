@@ -4,6 +4,10 @@
 ## CURRENT WORKING ON (Priority first)</br>
 * Reviewing codes and making them more simple. </br>
 * Complete a video session work-flow. </br>
+* Loading sign after answer the call to connected. </br>
+* Switch camera action. </br>
+* Muted and unmuted has different remote volume. </br>
+* 
 </br>
 
 ## REVIEWING </br>
