@@ -1,37 +1,43 @@
 # CYBERMED TASK LIST
->Last Changes: 5/7/2020 </br>
+>Last Changes: 5/20/2020 </br>
 
 ## CURRENT WORKING ON (Priority first)</br>
 * Reviewing codes and making them more simple. </br>
 * Complete a video session work-flow. </br>
-* 
 </br>
 
 ## REVIEWING </br>
+* Implement the hardware check and connection checks. </br>
 </br>
 
 ## ISSUES & FEATURES </br>
+**5/20/2020:** </br>
+* Move patient video session to CDOC_ONLINE. </br>
+* Switch the provider side SDK to the NG version. Prepare for the merging of two files. </br>
+</br>
+
 **5/18/2020:** </br>
-* Multiple screen show after second call. </br>
-* Muted status and no video status will be kept after first call. </br>
 * Loading sign after answer the call to connected. </br>
 * Switch camera action. </br>
-* Muted and unmuted has different remote volume. </br>
 * OnBeforeClose on safari. </br>
 * Show provider's online status. </br>
-* click here to download app. </br>
+* Implement the hardware check and connection checks. </br>
+* <s>Muted and unmuted has different remote volume.</s> </br>
+* <s>Multiple screen show after second call.</s> </br>
+* <s>Muted status and no video status will be kept after first call.</s> </br>
+* <s>click here to download app.</s> </br>
 </br>
 
 **5/7/2020:** </br>
-* Add the CDOC brand beside of CyberMed in patientWaitingRoom.aspx. </br>
-* Hide the pop-up window as soon as ringbox showing up. </br>
 * Cleanup the files which not useful under video folder CDOC_ONLINE. </br>
-* Change the chinese version patientWaitingRoom to chinese sentect. </br>
-* Put "Thank you for using CDOC" on top, "Your call is complete." on bottom. </br>
 * Make those stats data more readable. </br>
 * Change the signal sign to bars. </br>
-* Design a database table for save stats log. </br>
 * Malak's request update on CyberMed Corp. </br>
+* <s>Add the CDOC brand beside of CyberMed in patientWaitingRoom.aspx.</s> </br>
+* <s>Hide the pop-up window as soon as ringbox showing up.</s> </br>
+* <s>Change the chinese version patientWaitingRoom to chinese detect.</s> </br>
+* <s>Put "Thank you for using CDOC" on top, "Your call is complete." on bottom.</s> </br>
+* <s>Design a database table for save stats log.</s> </br>
 </br>
 
 **5/4/2020:** </br>
