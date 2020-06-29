@@ -7,8 +7,9 @@
 ## GUIDE
 **1. Create An Instance on EC2** </br>
 **2. Route 53 Setup** </br>
-**3. Letsencrypt NPM** </br>
-**4. Initialized NodeJS Project** </br>
+**3. Initialized NodeJS Project** </br>
+**4. Port 80 Setup** </br>
+**5. Letsencrypt (Port 443 Setup)** </br>
 
 ## Git
 **Delete local branch:** </br> `$ git branch -d mybranch`  </br>
@@ -29,7 +30,14 @@
 * Create a Record Set </br>
 * Resovle domain to Public IPv4 address </br>
 
-## Letsencrypt NPM
+## Initialized NodeJS Project
+
+## Port 80 Setup
+`$ sudo apt-get install libcap2-bin`  </br>
+`$ sudo setcap cap_net_bind_service=+ep /usr/bin/node`  </br>
+* Search node directory: `$ which node`  </br>
+
+## Letsencrypt (Port 443 Setup)
 * On Ubuntu 18.04 </br>
 `$ sudo apt-get update`  </br>
 `$ sudo apt-get install software-properties-common`  </br>
@@ -42,5 +50,3 @@
 ![certbot Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/Ryore_com_SSL_Certification.png) </br>
 * IF web server is running.
   - `$ sudo certbot certonly --webroot`  </br>
-
-## Initialized NodeJS Project
