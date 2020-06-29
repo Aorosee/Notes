@@ -5,16 +5,16 @@
 >Last Changes: 06/28/2020 </br>
 
 ## GUIDE
-**1. Create An Instance** </br>
-**2. Ubuntu** </br>
-**3. Php** </br>
-**4. VB.net** </br>
+**1. Create An Instance on EC2** </br>
+**2. Route 53 Setup** </br>
+**3. Letsencrypt NPM** </br>
+**4. Initialized NodeJS Project** </br>
 
 ## Git
 **Delete local branch:** </br> `$ git branch -d mybranch`  </br>
 **Force delete local branch:** </br> `$ git branch -D mybranch` </br>
 
-## Create An Instance
+## Create An Instance on EC2
 * 1. Create an instance. </br>
 * 2. Setup security group. </br>
-* 3. 
+* 3. Setup SSH
