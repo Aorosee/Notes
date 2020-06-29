@@ -20,7 +20,7 @@
 * Setup security group. </br>
 ![Security Group Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/Security_Group2.png) </br>
 * Setup SSH. </br>
-![Security Group Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/SSH_setup.png) </br>
+![SSH setup Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/SSH_setup.png) </br>
 * Allocate an elastic IP address. </br>
 
 ## Route 53 Setup
@@ -39,6 +39,7 @@
 `$ sudo apt-get install certbot`  </br>
 * IF web server is not cuurently running.
   - `$ sudo certbot certonly --standalone`  </br>
+![certbot Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/Ryore_com_SSL_Certification.png) </br>
 * IF web server is running.
   - `$ sudo certbot certonly --webroot`  </br>
 
