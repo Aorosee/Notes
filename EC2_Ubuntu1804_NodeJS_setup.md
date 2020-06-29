@@ -5,12 +5,17 @@
 >Last Changes: 06/28/2020 </br>
 
 ## GUIDE
+**0. Current Targets/Issues** </br>
 **1. Create An Instance on EC2** </br>
 **2. Route 53 Setup** </br>
 **3. Initialized NodeJS Project** </br>
 **4. Port 80 Setup** </br>
 **5. Letsencrypt (Port 443 Setup)** </br>
 **6. Maintain NodeJS Server** </br>
+
+## Current Targets/Issues
+* Redirect to Https from ExpressJS (Helmet?) </br>
+* Cert/PryKey file access </br>
 
 ## Create An Instance on EC2
 * Create an instance. </br>
