@@ -36,7 +36,6 @@
 `$ sudo add-apt-repository universe`  </br>
 `$ sudo add-apt-repository ppa:certbot/certbot`  </br>
 `$ sudo apt-get update`  </br>
-</br>
 `$ sudo apt-get install certbot`  </br>
 * IF web server is not cuurently running.
   - `$ sudo certbot certonly --standalone`  </br>
