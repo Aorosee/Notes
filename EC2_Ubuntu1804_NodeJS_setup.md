@@ -21,3 +21,26 @@
 ![Security Group Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/Security_Group2.png) </br>
 * Setup SSH. </br>
 ![Security Group Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/SSH_setup.png) </br>
+* Allocate an elastic IP address. </br>
+
+## Route 53 Setup
+* Register or transfer a domain into Route53 </br>
+* Create a hosted zone </br>
+* Create a Record Set </br>
+* Resovle domain to Public IPv4 address </br>
+
+## Letsencrypt NPM
+* On Ubuntu 18.04 </br>
+`$ sudo apt-get update`  </br>
+`$ sudo apt-get install software-properties-common`  </br>
+`$ sudo add-apt-repository universe`  </br>
+`$ sudo add-apt-repository ppa:certbot/certbot`  </br>
+`$ sudo apt-get update`  </br>
+</br>
+`$ sudo apt-get install certbot`  </br>
+* IF web server is not cuurently running.
+  - `$ sudo certbot certonly --standalone`  </br>
+* IF web server is running.
+  - `$ sudo certbot certonly --webroot`  </br>
+
+## Initialized NodeJS Project
