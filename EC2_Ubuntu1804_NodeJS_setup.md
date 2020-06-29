@@ -10,6 +10,7 @@
 **3. Initialized NodeJS Project** </br>
 **4. Port 80 Setup** </br>
 **5. Letsencrypt (Port 443 Setup)** </br>
+**6. Maintain NodeJS Server** </br>
 
 ## Create An Instance on EC2
 * Create an instance. </br>
@@ -49,3 +50,9 @@
 ![certbot Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/Ryore_com_SSL_Certification.png) </br>
 * IF web server is running.
   - `$ sudo certbot certonly --webroot`  </br>
+
+## Maintain NodeJS Server
+* Start a server: `$ nodemon` OR `$ node app.js`
+* Stop/Terminate a server:
+  - `$ ps aux | grep node` To check all running process which include keyword node.
+  - `$ kill -9 PROCESS_ID` PROCESS_ID is the second column from left side.
