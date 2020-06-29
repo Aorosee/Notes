@@ -27,6 +27,9 @@
 * Resovle domain to Public IPv4 address </br>
 
 ## Initialized NodeJS Project
+* Initial npm environment </br>
+* Install ExpressJS </br>
+* Install Nodemon </br>
 
 ## Port 80 Setup
 `$ sudo apt-get install libcap2-bin`  </br>
