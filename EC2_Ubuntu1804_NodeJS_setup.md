@@ -11,10 +11,6 @@
 **4. Port 80 Setup** </br>
 **5. Letsencrypt (Port 443 Setup)** </br>
 
-## Git
-**Delete local branch:** </br> `$ git branch -d mybranch`  </br>
-**Force delete local branch:** </br> `$ git branch -D mybranch` </br>
-
 ## Create An Instance on EC2
 * Create an instance. </br>
 * Save private.pem key in local. </br>
@@ -35,7 +31,7 @@
 ## Port 80 Setup
 `$ sudo apt-get install libcap2-bin`  </br>
 `$ sudo setcap cap_net_bind_service=+ep /usr/bin/node`  </br>
-* Search node directory: `$ which node`  </br>
+* Search node directory: `$ which node` ('/usr/bin/node') </br>
 
 ## Letsencrypt (Port 443 Setup)
 * On Ubuntu 18.04 </br>
