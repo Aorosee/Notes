@@ -1,7 +1,6 @@
 # NodeJS Server under AWS EC2 Ubuntu 18.04 LTS Setup Notes (Including Route 53 DNS)
->While I am learning and developing programs, I searched a lot on Internet. Then I was wondering should I take useful informations out and write them down. However, I know that everything change fast on Internet day after day. I will record the date of my last edits on top of this document. For reader's reference only.</br>
+>This note is focusing on the details to build a NodeJs Server instance on AWS with friendly domain name.</br>
 
->Verison 1.0.1 </br>
 >Last Changes: 06/28/2020 </br>
 
 ## GUIDE
