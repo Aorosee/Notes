@@ -1,7 +1,7 @@
 # NodeJS Server under AWS EC2 Ubuntu 18.04 LTS Setup Notes (Including Route 53 DNS)
 >This note is focusing on the details to build a NodeJs Server instance on AWS with friendly domain name.</br>
 
->Last Changes: 06/28/2020 </br>
+>Last Changes: 06/29/2020 </br>
 
 ## GUIDE
 **0. Current Targets/Issues** </br>
@@ -15,6 +15,7 @@
 ## Current Targets/Issues
 * Redirect to Https from ExpressJS (Helmet?) </br>
 * Cert/PryKey file access </br>
+* Retrieve NodeJS server console when opening a new terminal </br>
 
 ## Create An Instance on EC2
 * Create an instance. </br>
