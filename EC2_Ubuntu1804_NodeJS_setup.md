@@ -17,5 +17,5 @@
 ## Create An Instance on EC2
 * 1. Create an instance. </br>
 * 2. Setup security group. </br>
-[Contribution guidelines for this project](./src/images/Security Group.png)
+![alt text](https://github.com/Aorosee/Notes/master/src/Images/Security Group.png?raw=true)
 * 3. Setup SSH
