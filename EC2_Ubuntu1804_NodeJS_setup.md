@@ -15,7 +15,7 @@
 **Force delete local branch:** </br> `$ git branch -D mybranch` </br>
 
 ## Create An Instance on EC2
-* 1. Create an instance. </br>
-* 2. Setup security group. </br>
-![alt text](https://github.com/Aorosee/Notes/blob/master/src/Images/Security_Group.png)
-* 3. Setup SSH
+*1. Create an instance. </br>
+*2. Setup security group. </br>
+![Security Group Screenshot](https://github.com/Aorosee/Notes/blob/master/src/Images/Security_Group.png)
+*3. Setup SSH
