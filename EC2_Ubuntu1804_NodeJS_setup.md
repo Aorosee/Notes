@@ -17,6 +17,7 @@
 * Redirect to Https from ExpressJS (Helmet?) </br>
 * Cert/PryKey file access </br>
 * Retrieve NodeJS server console when opening a new terminal </br>
+* bin/www </br>
 
 ## Create An Instance on EC2
 * Create an instance. </br>
