@@ -1,7 +1,7 @@
 # NodeJS Server under AWS EC2 Ubuntu 18.04 LTS Setup Notes (Including Route 53 DNS)
 >This note is focusing on the details to build a NodeJs Server instance on AWS with friendly domain name.</br>
 
->Last Changes: 06/29/2020 </br>
+>Last Changes: 06/30/2020 </br>
 
 ## GUIDE
 **0. Current Targets/Issues** </br>
@@ -11,6 +11,7 @@
 **4. Port 80 Setup** </br>
 **5. Letsencrypt (Port 443 Setup)** </br>
 **6. Maintain NodeJS Server** </br>
+**7. WebSocket Implementation** </br>
 
 ## Current Targets/Issues
 * Redirect to Https from ExpressJS (Helmet?) </br>
@@ -61,3 +62,6 @@
 * Stop/Terminate a server:
   - `$ ps aux | grep node` To check all running process which include keyword node.
   - `$ kill -9 PROCESS_ID` PROCESS_ID is the second column from left side.
+
+## WebSocket Implementation
+* Install npm ws: `$ npm install ws --save`
